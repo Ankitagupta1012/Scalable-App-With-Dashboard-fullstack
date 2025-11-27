@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1764183945177,
+      "email": "abc@test.com",
+      "passwordHash": "$2a$10$x1smVLdXr2zhA0vawEYVYewCw2dMW9eGLPDvK7EzLkhp7oHfIC9ba"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Test task",
+      "description": "This is a sample",
+      "status": "Pending",
+      "priority": "Medium",
+      "ownerEmail": "demo@example.com",
+      "created": "2025-11-27"
+    },
+    {
+      "id": 1764238395833,
+      "title": "Ankita 'stest",
+      "priority": "Medium",
+      "status": "Pending",
+      "description": "asjhdgijdvkdsbvhdshvbkdsjbvkdsbvjhsvkhd vjhdbvkdsbvjhbvdkjbvfdnbvdfkjvbfkdjvbkjdbvjkfdbv",
+      "ownerEmail": "abc@test.com",
+      "created": "2025-11-27"
+    }
+  ]
+}
